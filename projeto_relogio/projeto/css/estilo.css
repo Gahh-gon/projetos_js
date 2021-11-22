@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Raleway:wght@300&display=swap');
+
+
+
+body{
+
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(51, 51, 51, 0.667);
+
+
+
+}
+.relogio{
+
+
+height: 100vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+
+}
+.display{
+font-family: 'Dosis', sans-serif;
+background-color: #39393a;
+width: 400px;
+height: 200px;
+text-align: center;
+line-height: 200px;
+border-radius: 20px;
+color: rgb(95, 212, 212);
+font-size: 6em;
+border: solid 10px;
+
+
+}
+footer{
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    margin-top: 10px;
+    color: rgb(51, 49, 49);
+
+}
